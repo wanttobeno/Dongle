@@ -1,0 +1,9 @@
+LIBRARY Rockey2
+EXPORTS
+    RY2_Find
+    RY2_Close
+    RY2_Open
+    RY2_Read
+    RY2_Write
+    RY2_GetVersion
+    RY2_GenUID
